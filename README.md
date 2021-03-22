@@ -52,18 +52,18 @@ In order to use this demo application you must first have installed:
 - Comments allow anyone with access to the repository to provide feedback.
 ## Bug workflow
 - Every bug should be triaged in approved/needs info in a given time.
-- approved: at least one other is able to reproduce it
+- approved: at least one other can reproduce it
 - needs info: something unclear, or not able to reproduce
   - if no response within 1 month, the bug will be closed
 - pr exists: if the bug is fixed, link to pr
-- approved: at least one other is able to reproduce it
+- approved: at least one other can reproduce it
 - needs info: something unclear, or not able to reproduce
   - if no response within 1 month, the bug will be closed
 - pr exists: if the bug is fixed, link to pr
-
+ 
 ## Android Studio as your main IDE 
 The recommended IDE for Android development is [Android Studio](https://developer.android.com/studio) because it is developed and constantly updated by Google, has good support for Gradle, contains a range of useful monitoring and analysis tools, and is fully tailored for Android development.
-
+ 
 Avoid adding Android Studio's specific configuration files, such as .iml files to the version control system as these often contain configurations specific to your local machine, which won't work for your colleagues.
 
 ## Contributors:
